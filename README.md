@@ -48,3 +48,4 @@ Implements CardView for a visually appealing presentation of individual tasks.
 -	Manar Ahmad
 -	Raghad Ibrahim
 -	Maram Ahmad
+-	Ghadi Ibrahim
