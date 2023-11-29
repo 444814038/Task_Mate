@@ -1,7 +1,7 @@
 # Project Title :  TaskMate
 
 
-#Description:
+# Description:
 ## The TaskMate application is list app developed for Android. It utilizes RecyclerView and CardView layouts for an organized display of tasks and employs an SQLite database for task storage. The application allows users to create, edit, and delete tasks efficiently.
 Requirements:
 To run the TaskMate application, you need the following:
